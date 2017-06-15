@@ -1,9 +1,9 @@
 	###########目录结构描述
 	├── Readme.md                   // help
 	├── app                         // 应用
-	├── common                      // 配置（--配置本文件才能运行demo--）
+	├── common                      // 配置
 	│   ├── common.go               //公共函数
-	│   └──  config.go              // 系统依赖的全局变量
+	│   └── config.go              // 系统依赖的全局变量 （--配置本文件才能运行demo--）
 	├── main                      
 	│   └── main.go                 // 入口文件
 	├── phpCgi                      
