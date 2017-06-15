@@ -16,4 +16,4 @@
 
 
 
-运行本demo需要对config.go文件进行一些接触的配置。
+运行本demo需要对config.go文件进行配置。
