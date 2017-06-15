@@ -12,4 +12,4 @@
 	│   └── server.go               // web服务解析
 #####说明 v0.1
 仅做学习使用，不依赖go的net/http包,用go的协程做了socket握手以及http协议的
-封装，目前仅支持get请求和php代码的解析，后期准备加入fast-cgi协议的支持。
+封装，目前仅支持静态web（get方式）请求和php代码的解析，后期准备加入fast-cgi协议的支持。
