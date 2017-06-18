@@ -1,0 +1,10 @@
+{
+    "Path":{
+        "go_src" : "/Users/qiangf/go/src/",
+        "php_cgi": "/usr/local/Cellar/php56/5.6.30_6.tmp/bin/php-cgi"
+    },
+
+    "WebService" : {
+        "port" : ":4445"
+    }
+}
